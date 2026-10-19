@@ -237,12 +237,6 @@ Experience the SecureRegent Business Dashboard live:
 
 🔗 "Click Here to View Live Dashboard" (https://secure-regent-business-analytics-xi.vercel.app/)
 
-The project is deployed on Vercel and can be accessed directly through the live demo link. src="https://img.shields.io/badge/Open%20Live%20Dashboard-C3E8D8?style=for-the-badge&logo=googlechrome&logoColor=38566D" alt="Open Live Dashboard"/>
-</a>
-
-<br/><br/>
-
-<sub>Live access will be enabled after deployment.</sub>
 
 </div>
 
